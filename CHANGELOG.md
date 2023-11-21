@@ -1,4 +1,10 @@
-## Unreleased
+## 1.5.1 (2023-11-21)
+
+### Fix
+
+- **HYT-005**: Test into fix option
+
+## 1.5.0 (2023-11-21)
 
 ### Feat
 
