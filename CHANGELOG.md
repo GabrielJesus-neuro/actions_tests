@@ -1,3 +1,9 @@
+## 1.6.0 (2023-11-21)
+
+### Feat
+
+- **HYT-004**: Test second time with feature
+
 ## 1.5.1 (2023-11-21)
 
 ### Fix
