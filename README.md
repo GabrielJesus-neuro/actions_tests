@@ -12,3 +12,5 @@
 
 - Será que agora vai?
 - Torcendo pra ter ido 
+
+- Vai um fix ai? 
