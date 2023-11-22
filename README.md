@@ -8,3 +8,4 @@
 - Essa será a segunda feature
 
 - Esse aqui é um bugfix kkk
+- Este é o segundo bugfix, esses são os melhores
