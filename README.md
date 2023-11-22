@@ -9,3 +9,8 @@
 
 - Esse aqui é um bugfix kkk
 - Este é o segundo bugfix, esses são os melhores
+
+- Será que agora vai?
+- Torcendo pra ter ido 
+
+- Vai um fix ai? 
