@@ -1,4 +1,4 @@
 [tool.commitizen]
 name = "cz_conventional_commits"
 version = "1.8.0"
-tag_format = "$version"
+tag_format = "$major.$minor.$patch"
