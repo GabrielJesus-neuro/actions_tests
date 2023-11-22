@@ -1,3 +1,15 @@
+## 1.8.0 (2023-11-22)
+
+### Feat
+
+- **HYT-005**: Real second feature where trigger to update changelog must be activated
+- **HYT-005**: Real first feature where trigger to update changelog must be activated
+
+### Fix
+
+- **HYT-006**: Second bugfix test in other scope
+- **HYT-005**: First bugfix test
+
 ## 1.7.0 (2023-11-22)
 
 ### Feat
